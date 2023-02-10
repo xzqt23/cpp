@@ -32,8 +32,7 @@ int main ()
         break;
 
     default:
-        std::cout<<"Please enter a valid number from 1-7.";
-        break;
+        std::cout<<"Please enter a valid number from 1-7."; 
     }
     return 0;
 }
