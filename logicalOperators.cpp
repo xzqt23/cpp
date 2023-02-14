@@ -3,6 +3,9 @@
 int main()
 
 {
+    // &&- check if both  conditions are true
+    // || - check if one conditions is true
+    // ! - reverses the logical state
 
     int number = 23;
 
